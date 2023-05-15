@@ -13,23 +13,23 @@ export default function Index() {
           CBT | Cookie BOT
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       Cookie bot ne işe yarar? Cookie bot bir moderasyon botudur. Ve bunu farklı versiyonları yani Eğlence, Minecraft, Kayıt ve Uptime gibi versiyonlarıda mevcuttur. NOT: bu versiyonlar HAZIR olunca sitemize eklenecektir!. 
+       🍪Cookie bot ne işe yarar🤔? Cookie bot bir moderasyon botudur. Ve bunu farklı versiyonları yani Eğlence, Minecraft, Kayıt ve Uptime gibi versiyonlarıda mevcuttur😎. NOT: bu versiyonlar HAZIR olunca sitemize eklenecektir🤫!. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://bit.ly/3PHDjyC"}>
+            <Link href={"https://www.youtube.com/@FWBATTM"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Davet et: Cookie
+          🥰Kanala Abone ol!
               </a>
             </Link>
   <div className="py-10"></div>
   <Link href={"https://discord.com/api/oauth2/authorize?client_id=1107641098379218974&permissions=8&scope=bot%20applications.commands"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Discord Sunucusu</a>
+🍪Cookie'yi Davet et!</a>
   </Link>
         </div>
 
@@ -57,25 +57,25 @@ Discord Sunucusu</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimizasyon</p>
-                  <p className="text-gray-500 line-clamp-4">CBT  Cookie BOT sunucunun kötü insanlara karşı korunmanıza ve sunucunuzu daha iyi optimize etmeye yarar.</p>
+                  <p className="text-gray-500 line-clamp-4">🍪😎CBT  Cookie BOT sunucunun kötü insanlara karşı korunmanıza ve sunucunuzu daha iyi optimize etmeye yarar.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Kaynak-altyapı</p>
-                  <p className="text-gray-500 line-clamp-4">CBT Cookie botumuzyun altyapısı ArasChain tarafından hazırlanıp CBT ekibi tarafından bazı değişklikler yapılarak düzenlenmiştir!)</p>
+                  <p className="text-gray-500 line-clamp-4">🍪😚CBT Cookie botumuzyun altyapısı ArasChain tarafından hazırlanıp CBT ekibi tarafından bazı değişklikler yapılarak düzenlenmiştir!)</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Güvenlik</p>
-                  <p className="text-gray-500 line-clamp-4">Göz atabileceğiniz ve geliştirmemize yardımcı olabileceğiniz açık kaynaklı bir güvenli bot.</p>
+                  <p className="text-gray-500 line-clamp-4">🍪👀Göz atabileceğiniz ve geliştirmemize yardımcı olabileceğiniz açık kaynaklı bir güvenli bot.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Destek</p>
-                  <p className="text-gray-500 line-clamp-4">Destek verenler: BaturexCBT#8269 ! SAD Kerem#4400 .</p>
+                  <p className="text-gray-500 line-clamp-4">🍪🤝Destek verenler: BaturexCBT#8269 ! SAD Kerem#4400 .</p>
                 </div>
               </div>
           </div>

@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="/https://ih1.redbubble.net/image.1394795339.1413/pp,840x830-pad,1000x1000,f8f8f8.jpg" />
+      <img width="500" src="https://wiki.hypixel.net/images/2/2a/Minecraft_items_red_mushroom.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           CBT | Cookie BOT
